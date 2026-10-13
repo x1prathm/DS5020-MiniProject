@@ -1,10 +1,10 @@
 Measure,PCA,Truncated SVD
 Components (k),50.0,50.0
-Fit time (seconds),0.10274849999768776,0.07061479199910536
+Fit time (seconds),0.0869656249997206,0.07237166599952616
 Stored factors + required mean (MB),3.69832,3.6688
 PCA explained variance (%),35.711400077560164,
 SVD relative reconstruction error,,0.7863070967896825
 Hit rate at 10 (%),22.25130890052356,22.30366492146597
 Best-seller hit rate at 10 (%),17.38219895287958,17.38219895287958
-Peak process memory (MB),202.407936,208.371712
+Peak process memory (MB),202.17856,208.24064
 Component 1 interpretation,Purchasing activity relative to the average customer,Overall purchasing activity

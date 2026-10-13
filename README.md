@@ -41,3 +41,9 @@ Timings vary by machine and run. New customers and excluded products are not cov
 - `reports/`: profiles, cleaning log, matrix report, evaluation and comparison.
 - `figures/`: compression curve and named customer map.
 - `data/processed/`: locally generated matrix, index maps and split files.
+
+Rebuild the matrix, reports and figures from the raw workbook:
+
+```bash
+python build_matrix.py
+```
